@@ -1,2 +1,0 @@
-# convrsusReact
-aplicacion en react 
